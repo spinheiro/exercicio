@@ -1,13 +1,13 @@
 
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
-import Simples from "./src/componentes/Simples"
+
 
 export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Simples texto='Amem hehe'/>
+       <Text> jsdhsjdhjk</Text>
       </View>
     );
   }
